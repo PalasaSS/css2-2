@@ -1,0 +1,126 @@
+#logo {
+    margin-left: 250px;
+    width: 120px;
+}
+
+#about {
+    margin-left: 150px;
+    color: #FF5DA3;
+}
+
+#offer {
+    margin-left: 50px;
+}
+
+#contact {
+    margin-left: 50px;
+}
+
+#contactus {
+    margin-left: 150px;
+    display: inline-block;
+    color: white;
+    background-color: #00AC25;
+    padding: 10px 20px 10px 20px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+#h1 {
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 120px;
+}
+
+#span1 {
+    color: #FF5DA3;
+    margin-left: 80px;
+}
+
+#p1 {
+    box-sizing: border-box;
+    margin-left: 350px;
+}
+
+#span2 {
+    margin-left: 200px;
+}
+
+#h2 {
+    margin-left: 615px;
+    font-size: 30px;
+}
+
+#p2 {
+    margin-left: 500px;
+    color: #6941C6;
+}
+
+#span3 {
+    margin-left: 15px;
+}
+
+#span4 {
+    margin-left: 65px;
+}
+
+#submit {
+    display: inline-block;
+    margin-left: 627px;
+    background-color: #00AC25;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+#div {
+    background-color: #6941C6;
+    margin-top: 270px;
+    padding: 4px;
+}
+
+#logo2 {
+    padding-top: 80px;
+    margin-left: 150px;
+    margin-bottom: 25px;
+}
+
+#Overwiew {
+    display: inline-block;
+    margin-left: 200px;
+    margin-bottom: 60px;
+    color: white;
+}
+
+#features {
+    display: inline-block;
+    margin-left: 40px;
+    color: white;
+}
+
+#pricing {
+    display: inline-block;
+    margin-left: 40px;
+    color: white;
+}
+
+#careers {
+    display: inline-block;
+    margin-left: 40px;
+    color: white;
+}
+
+#help {
+    display: inline-block;
+    margin-left: 40px;
+    color: white;
+}
+
+#privacy {
+    display: inline-block;
+    color: white;
+}
+
+#entitie {
+    display: inline-block;
+    margin-left: 90px;
+}
